@@ -25,4 +25,5 @@ The repository is organized as follows:
    - Understanding the concept of PCA and its implementation.
    - Reducing the dimensionality of datasets.
    - **[Notes](notes/pca.md)** | **[Project](projects/pca_project.ipynb)**
-   - 
+
+   
